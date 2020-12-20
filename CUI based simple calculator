@@ -23,11 +23,11 @@ def banner():
 
 def teamMembers():
 	# Members List
-	members = ['Abhi Saxena','Shivani Singh','Baby Yadav','Siddharth Mani Tiwari','Punam Singh','Ankit Yadav','Shailesh']
+	members = ['Megha Srivastava','Neha Singh','Shailendra Kumar','Akash Jaiswal','Bhupendra Jee Vishwakarma','Ankit Yadav']
 	branch = "CSE"
 	year = 3
 	print("-" * 12 + "Team Members" + "-" * 12)
-	for index in range(0,7):
+	for index in range(0,6):
 		print("\tName: ", members[index])
 		print("\tBranch: " + branch)
 		print("\tYear: "+str(year)+"rd Year")
