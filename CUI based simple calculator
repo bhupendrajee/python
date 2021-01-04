@@ -23,7 +23,7 @@ def banner():
 
 def teamMembers():
 	# Members List
-	members = ['Abhi Saxena','Shivani Singh','Baby Yadav','Siddharth Mani Tiwari','Punam Singh','Ankit Yadav','Shailesh']
+	members = ['Megha Srivastava','Bhupendra Jee Vishwakarma','Neha Singh','Ankit Yadav','Akash Jaiswal','Shailendra']
 	branch = "CSE"
 	year = 3
 	print("-" * 12 + "Team Members" + "-" * 12)
